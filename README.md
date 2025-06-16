@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently looking for job in tech.<br>I'm currently learning MERN stack.<br>I'm looking for collaboration with startups as a freelancer<br>
+I'm a Full Stack Developer . But open to learning new tech 
 
 
 ## 🌐 Socials:
