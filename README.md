@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Developer . But open to learning new tech .
+I'm a Full Stack Developer . Trying to learning new tech and improve every single day .
 
 
 ## 🌐 Socials:
